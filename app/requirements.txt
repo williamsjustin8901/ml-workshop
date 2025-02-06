@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+xgboost
+pandas
+jupyterlab
+seaborn>=0.13.2
+python-multipart
+scikit-learn<1.6

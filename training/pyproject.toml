@@ -1,0 +1,14 @@
+[project]
+name = "ml-workshop"
+version = "0.1.0"
+readme = "README.md"
+dependencies = [
+    "numpy",
+    "xgboost",
+    "catboost",
+    "pandas",
+    "jupyterlab",
+    "seaborn>=0.13.2",
+    "scikit-learn<1.6",
+]
+
